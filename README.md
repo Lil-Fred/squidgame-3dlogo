@@ -2,8 +2,8 @@
 
 Squid Game 3dlogo  experience
 
-![](img/Screenshot%(2).png)
+![](img/Screenshot1.png)
 
 
 
-![](img/Screenshot%(25).png)
+![](img/Screenshot2.png)
